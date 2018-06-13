@@ -1,0 +1,19 @@
+{
+  "name": "org.cloudsky.cordovaplugins.ipay88",
+  "version": "1.0.3a",
+  "description": "Cordova Library for integrating with the iPay88 payment gateway's mobile SDK.",
+  "main": "www/iPay88.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tikchoong/cordova-plugin-ipay88.git"
+  },
+  "keywords": [
+    "ipay88"
+  ],
+  "author": "tjwoon",
+  "license": "ISC"
+
+}
